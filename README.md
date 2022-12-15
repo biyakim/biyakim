@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   
-<img src="https://img.shields.io/badge/java-00000?style=flat-square&logo=Java&logoColor=000000"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/java-FFFFFF?style=flat-square&logo=Java&logoColor=000000"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=000000"/>
 <img src="https://img.shields.io/badge/css3-00000?style=flat-square&logo=css3&logoColor=00000"/>
 <img src="https://img.shields.io/badge/c-E34F26?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-FFFF00?style=flat-square&logo=javascript&logoColor=000000"/>
