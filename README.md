@@ -14,7 +14,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biyakim)](https://github.com/biyakim/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&show_icons=true&theme=dark)(https://github.com/biyakim/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&show_icons=true&theme=dark)
 </div>
 
-<img src="https://ghchart.rshah.org/000000/biyakim" />
