@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=200&text=Merry!Christmas!&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=200&text=Merry!Christmas!&fontcolor=FF0000)
 </div>
 <div align="center">
   
