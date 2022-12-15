@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=black&height=200&text=I wish you happiness&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=wave&color=black&height=200&text=I_wish_you_happiness&strokeWidth=3)
 </div>
 <div align="center">
   
