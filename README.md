@@ -4,11 +4,11 @@
 </div>
 <div align="center">
   
-<img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=000000"/>
-<img src="https://img.shields.io/badge/css3-00000?style=flat-square&logo=css3&logoColor=00000"/>
-<img src="https://img.shields.io/badge/c-E34F26?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-FFFF00?style=flat-square&logo=javascript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/HTML5-FF9900?style=flat-square&logo=HTML5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/css3-000000?style=flat-square&logo=css3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/c-000000?style=flat-square&logo=c&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/javascript-000000?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 </div>
 <div align="center">
   
