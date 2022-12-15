@@ -14,5 +14,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biyakim)](https://github.com/biyakim/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim)](https://github.com/biyakim/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&theme=bark)](https://github.com/biyakim/github-readme-stats)
 </div>
