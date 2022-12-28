@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=200&&text=merry!Christmas&fontColor={FF0000})
+![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=200&&text=Hello&fontColor={FF0000})
 </div>
 <div align="center">
   
@@ -14,6 +14,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biyakim&theme=dark&color=FF0000)](https://github.com/biyakim/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&show_icons=true&theme=red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&show_icons=true&theme=dark)
 </div>
 
