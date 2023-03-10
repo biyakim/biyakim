@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   
-<img src="https://img.shields.io/badge/JAVA-00000?style=for-the-badge&logo=Java&logoColor=FFFFF">
+<img src="https://img.shields.io/badge/JAVA-00000?style=for-the-badge&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-00000?style=for-the-badge&logo=JavaScript&logoColor=FFFFF">
 <img src="https://img.shields.io/badge/Spring-00000?style=for-the-badge&logo=Spring&logoColor=FFFFF">
 <img src="https://img.shields.io/badge/HTML5-00000?style=for-the-badge&logo=HTML5&logoColor=FFFFF">
@@ -17,6 +17,5 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&show_icons=true&theme=dark)
 </div>
 
