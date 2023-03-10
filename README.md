@@ -12,7 +12,7 @@
 </div>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biyakim&theme=dark&color=FF0000)](https://github.com/biyakim/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyakim&show_icons=true&theme=dark)
 </div>
