@@ -4,14 +4,14 @@
 </div>
 <div align="center">
   
-<img src="https://img.shields.io/badge/JAVA-00000?style=for-the-badge&logo=Java&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/JavaScript-00000?style=for-the-badge&logo=JavaScript&logoColor=FFFFF">
-<img src="https://img.shields.io/badge/Spring-00000?style=for-the-badge&logo=Spring&logoColor=FFFFF">
-<img src="https://img.shields.io/badge/HTML5-00000?style=for-the-badge&logo=HTML5&logoColor=FFFFF">
-<img src="https://img.shields.io/badge/CSS3-00000?style=for-the-badge&logo=CSS3&logoColor=FFFFF"> <br>
-<img src="https://img.shields.io/badge/Eclipse-00000?style=for-the-badge&logo=Eclipse%20IDE&logoColor=FFFFF">
-<img src="https://img.shields.io/badge/github-00000?style=for-the-badge&logo=github&logoColor=FFFFF">
-<img src="https://img.shields.io/badge/VSCode-00000?style=for-the-badge&logo=VisualStudioCode&logoColor=FFFFF">
+<img src="https://img.shields.io/badge/JAVA-00000?style=for-the-badge&logo=Java&logoColor=000000">
+<img src="https://img.shields.io/badge/JavaScript-00000?style=for-the-badge&logo=JavaScript&logoColor=000000">
+<img src="https://img.shields.io/badge/Spring-00000?style=for-the-badge&logo=Spring&logoColor=000000">
+<img src="https://img.shields.io/badge/HTML5-00000?style=for-the-badge&logo=HTML5&logoColor=000000">
+<img src="https://img.shields.io/badge/CSS3-00000?style=for-the-badge&logo=CSS3&logoColor=000000"> <br>
+<img src="https://img.shields.io/badge/Eclipse-00000?style=for-the-badge&logo=Eclipse%20IDE&logoColor=000000">
+<img src="https://img.shields.io/badge/github-00000?style=for-the-badge&logo=github&logoColor=000000">
+<img src="https://img.shields.io/badge/VSCode-00000?style=for-the-badge&logo=VisualStudioCode&logoColor=000000">
 </div>
 <div align="center">
   
